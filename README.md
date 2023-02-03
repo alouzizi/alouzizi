@@ -1,6 +1,6 @@
 <img align="center" width="1100" height ="350" src="https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg">
 <h1 align="center">Hi 👋, I'm Ali Louzizi</h1>
-<h3 align="center">A cyber securty student</h3>
+<h3 align="center"Student at 1337</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alouzizi&label=Profile%20views&color=0e75b6&style=flat" alt="alouzizi" /> </p>
 
