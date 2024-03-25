@@ -19,7 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alouzizi&show_icons=true&locale=en" alt="alouzizi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alouzizi&" alt="alouzizi" /></p>
-###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-###
